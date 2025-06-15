@@ -161,16 +161,6 @@
     </div>
   </section>
 
-  <section class="section contact">
-    <h2>Contact</h2>
-    <form action="mailto:beingnaif@gmail.com" method="post" enctype="text/plain">
-      <input type="text" name="name" placeholder="Your Name" required>
-      <input type="email" name="email" placeholder="Your Email" required>
-      <textarea name="message" rows="5" placeholder="Your Message" required></textarea>
-      <button type="submit">Send Message</button>
-    </form>
-  </section>
-
   <footer>
     &copy; 2025 Naif Khan | Built with 💡 and ☕
   </footer>
